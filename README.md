@@ -10,3 +10,6 @@ wget -O install-nethunter-termux https://offs.ec/2MceZWr
 
 TBomb
 https://github.com/TheSpeedX/TBomb
+
+to Get ROOT Access on Termux
+https://github.com/MFDGaming/ubuntu-in-termux
