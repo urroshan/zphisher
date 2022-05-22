@@ -16,3 +16,7 @@ https://github.com/MFDGaming/ubuntu-in-termux
  
  phoneinfoga 
  https://github.com/Wes974/PhoneInfoga
+ 
+ sudo su install
+ 
+ https://gitlab.com/st42/termux-sudo
