@@ -20,3 +20,6 @@ https://github.com/MFDGaming/ubuntu-in-termux
  sudo su install
  
  https://gitlab.com/st42/termux-sudo
+
+WiFi-Pumpkin
+https://github.com/P0cL4bs/WiFi-Pumpkin-deprecated
